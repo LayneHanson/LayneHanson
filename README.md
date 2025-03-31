@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LayneHanson
-- 👀 I’m interested in Information Security
+- 👀 I’m interested in Information Security and looking for my first SOC Analyst role!
+- *hyperlink to resume*
 - 🌱 I’m currently learning TBD- just obtained my CySA+!
-- 📫 How to reach me ...
+- 📫 How to reach me ... *hyperlink to linkedin*
 - ⚡ Fun fact: I almost broke my neck putting on swimming goggles
 
 <!---
